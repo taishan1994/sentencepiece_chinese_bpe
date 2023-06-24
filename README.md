@@ -1,0 +1,2 @@
+# sentencepiece_chinese_bpe
+使用sentencepiece中BPE训练中文词表，并在transformers中进行使用。
